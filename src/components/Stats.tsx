@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Tournament } from "../types";
 
 interface StatsProps {
@@ -32,3 +32,4 @@ export default function Stats({ data }: StatsProps) {
     </div>
   );
 }
+
