@@ -1,4 +1,4 @@
-import React from "react";
+
 
 const pokerSites = [
   { name: "PokerStars", url: "https://www.pokerstars.com", emoji: "♠️" },
@@ -26,3 +26,4 @@ export default function SitesBar() {
     </div>
   );
 }
+
