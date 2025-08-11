@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface Torneio {
   buyIn: number;
   premiacao: number;
